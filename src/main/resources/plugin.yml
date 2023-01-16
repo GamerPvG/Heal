@@ -1,0 +1,10 @@
+name: HealPlugin
+version: '${project.version}'
+main: me.gamerpvg.healplugin.Main
+api-version: 1.19
+authors: [ GamerPvG ]
+description: Ein Plugin, das Spieler heilt
+website: https://www.emrage.org/
+commands:
+  heal:
+    description: Heilt den Spieler
