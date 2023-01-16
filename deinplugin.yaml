@@ -1,0 +1,14 @@
+specVersion: 1
+type: plugin
+name: Heal
+authors: GamerPvG
+supportedPlatforms: paper
+supportedGameVersions: ^1.19
+category: misc
+introduction*: Ein einfaches Plugin, das das '/heal' -Kommando ausführt
+description*: Das Plugin ermöglicht, dass sich ein Spieler heilen kann
+installation:
+  de:
+    - Herunterladen der Plugindatei
+    - Die .jar Datei auf einen localen, oder gekauften Server packen
+    - Den Server neustarten
